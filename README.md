@@ -19,7 +19,7 @@ You have to get to the water without colliding with the ladybugs. You have three
  css<br>
  javascript
 
-##play here
+## play here
 <a href="https://shadab97.github.io/frontend-nanodegree-arcade-game-master/">click</a> 
 
 
