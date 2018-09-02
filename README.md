@@ -13,7 +13,8 @@
   
 You have to get to the water without colliding with the ladybugs. You have three lives, you lose a life when you collide three times. If you lose three lives you'll lose the game. Each time you get to the water you'll score 100 points. Each time you collide you'll lose 50 points. After you score 300 points collectibles will appear. You'll win the game when you score at least 2000 points. When you lose or win the game, a play-again button will appear.
 
-
+##play here
+<a href="https://shadab97.github.io/frontend-nanodegree-arcade-game-master/">click</a> 
 
 frontend-nanodegree-arcade-game
 ===============================
